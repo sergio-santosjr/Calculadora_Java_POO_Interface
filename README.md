@@ -13,12 +13,12 @@ Tecnologias utilizadas
 
 Conceitos aplicados
 
+- Programação Orientada a Objetos (POO): organização do código em classes e utilização de uma interface para definir um comportamento comum.
 - Interfaces: a interface "Operacao" define o método "calcular()", que deve ser implementado pelas classes de operações.
-- Polimorfismo: diferentes classes implementam a interface "Operacao", cada uma executando seu próprio cálculo.
-- Encapsulamento e organização: cada operação matemática possui sua própria classe.
-- Estrutura condicional "switch": utilizada para selecionar a operação desejada.
-- Entrada de dados com "Scanner": utilizada para receber os valores informados pelo usuário.
-- Tratamento da divisão por zero: verificação para evitar uma divisão inválida.
+- Polimorfismo: diferentes classes implementam a interface "Operacao", cada uma realizando seu próprio cálculo.
+- Estrutura condicional "switch": seleciona a operação desejada pelo usuário.
+- Entrada de dados com "Scanner": recebe os números e a operação digitados pelo usuário.
+- Validação da divisão por zero: verifica se o divisor é zero antes de realizar a divisão.
 
 Estrutura do projeto
 
