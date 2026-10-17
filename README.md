@@ -9,7 +9,7 @@ A aplicação permite realizar operações matemáticas básicas: adição, subt
 Tecnologias utilizadas
 
 - Java
-- Programação Orientada a Objetos (POO)
+- Biblioteca padrão do java ("Scanner")
 
 Conceitos aplicados
 
